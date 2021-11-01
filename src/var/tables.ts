@@ -1,0 +1,23 @@
+export const TB_USER                    = "users";
+export const TB_ADMIN                   = "admin";
+export const TB_SETTING                 = "site_settings";
+
+export const TB_LICENSE                 = "licenses";
+export const TB_GATEWAY                 = "gateways";
+export const TB_TREE                    = "user_tree";
+export const TB_HOLD_TANK               = "holding_tank";
+export const TB_RANK_RULE               = "rank_rule";
+export const TB_TRANSACTION             = "transactions";
+export const TB_PAYOUT                  = "payouts";
+export const TB_WITHDRAW_TRANSACTION    = "withdraw_transactions";
+export const TB_ACADEMY                 = "academy_data";
+export const TB_VERIFICATION            = "verification_codes";
+export const TB_REFERRAL_FUND_TANK      = "referral_funds_tank";
+export const TB_REFERRAL_FUND_HISTORY   = "referral_funds_history";
+export const TB_TICKET                  = "tickets";
+export const TB_TICKET_MESSAGE          = "ticket_messages";
+export const TB_EMAIL_QUEUE             = "email_queue";
+export const TB_VPS_ORDER_QUEUE         = "vps_order_queue";
+export const TB_FEED                    = "feeds";
+export const TB_TOKENS                  = "mb_user_token";
+export const TB_COUPON                  = "coupons";
